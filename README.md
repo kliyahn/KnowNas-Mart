@@ -12,8 +12,10 @@ App Features
 
 1. Product Homepage
 
-Displays product categories at the top. 
-Search bar for quick product lookup. 
+Displays product categories at the top
+
+Search bar for quick product lookup
+
 Scrollable product list with:
 - Product image
 - Current price
