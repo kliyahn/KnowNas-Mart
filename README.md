@@ -1,11 +1,11 @@
 # KnowNas Mart
 
 Team Members:
-Nurkayla Aaliyah binti Mohammad Saini
-Nurul Izzati binti Abdul Razak
-Ezzah Nazirah binti Dzulkafli
-Zurine Aishah binti Zulkifli
-Aszfarwizah binti Aszni
+1. Nurkayla Aaliyah binti Mohammad Saini
+2. Nurul Izzati binti Abdul Razak
+3. Ezzah Nazirah binti Dzulkafli
+4. Zurine Aishah binti Zulkifli
+5. Aszfarwizah binti Aszni
 
 
 App Features
